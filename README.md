@@ -1,6 +1,4 @@
 <h3 align="center">software developer from tunisia</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 <img align="right" alt="coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2020/04/Full-Stack-Developer.gif">
